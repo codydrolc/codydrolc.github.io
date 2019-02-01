@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Cody Drolc</title>
+    <link>https://codydrolc.github.io/home/</link>
+    <description>Recent content in Homes on Cody Drolc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Cody Drolc</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://codydrolc.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://codydrolc.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://codydrolc.github.io/home/about/</guid>
+      <description>Biography Welcome!
+I am currently a PhD candidate in political science at the University of Missouri and a research assistant with the Truman School of Public Affairs. My research interests lie at the intersection of administrative politics, public policy, and human resources.
+My dissertation research considers how bureaucracies and elected officials monitor problems related to the implementation of public policies. Although many public programs are successfully implemented, problems that disrupt service delivery or the intended outcomes are common and seemingly inevitable.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://codydrolc.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://codydrolc.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://codydrolc.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://codydrolc.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://codydrolc.github.io/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://codydrolc.github.io/home/research/</guid>
+      <description>Under Review &amp;ldquo;Taking Time (and Space) Seriously: How Scholars Falsely Infer Policy Diffusion from Model Misspecification&amp;rdquo; with Christopher Gandrud and Laron K. Williams
+ Invited to revise and resubmit at Policy Studies Journal  &amp;ldquo;The Impact of Chinese Investments on Public Opinion in Latin America&amp;rdquo; with Adriana Boersner and Michael Hendricks
+Working Papers &amp;ldquo;Improving Implementation by Increasing Agency and Legislative Capacity: The Case of Social Security Disability Backlogs&amp;rdquo; with Lael R.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://codydrolc.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://codydrolc.github.io/home/teaching/</guid>
+      <description> Lab Instructor  Introduction to Political Research | Fall 2016  Evaluations   Teaching Assistant  The American Presidency | Spring 2018 African American Politics | Fall 2017 Liberty Justice, and the Common Good | Fall 2015, Fall 2017 The American Constitution | Spring 2016  Graduate Workshops  A Practical Introduction to Measurement and Data Theory | Spring 2018 Reference Management for Political Science | Fall 2016  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://codydrolc.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://codydrolc.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
