@@ -11,8 +11,6 @@ baseurl = "https://codydrolc.github.io/"
 # Title of your site
 title = "Cody Drolc"
 
-publishDir = ""
-
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2019 Cody Drolc"
