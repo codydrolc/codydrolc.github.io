@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cody Drolc</title>
-    <link>/tags/</link>
+    <link>https://codydrolc.com/tags/</link>
     <description>Recent content in Tags on Cody Drolc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Cody Drolc</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codydrolc.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>https://codydrolc.com/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://codydrolc.com/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>https://codydrolc.com/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>https://codydrolc.com/tags/demo/</guid>
       <description></description>
     </item>
     

@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://codydrolc.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/project/external-project/</loc>
+      <loc>https://codydrolc.com/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>/project/internal-project/</loc>
+      <loc>https://codydrolc.com/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>/publication/person-re-id/</loc>
+      <loc>https://codydrolc.com/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
+      <loc>https://codydrolc.com/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
+      <loc>https://codydrolc.com/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -53,7 +53,7 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
+      <loc>https://codydrolc.com/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -62,7 +62,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://codydrolc.com/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -70,7 +70,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://codydrolc.com/</loc>
       <lastmod>2016-04-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -79,7 +79,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
+      <loc>https://codydrolc.com/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -88,7 +88,7 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
+      <loc>https://codydrolc.com/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -97,7 +97,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://codydrolc.com/project/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -106,7 +106,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://codydrolc.com/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -115,7 +115,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://codydrolc.com/tags/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
