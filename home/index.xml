@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Cody Drolc</title>
-    <link>/home/</link>
+    <link>https://codydrolc.com/home/</link>
     <description>Recent content in Homes on Cody Drolc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Cody Drolc</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codydrolc.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://codydrolc.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://codydrolc.com/home/about/</guid>
       <description>Biography Welcome!
 I am currently a PhD candidate in political science at the University of Missouri and a research assistant with the Truman School of Public Affairs. I study issues at the intersection of public management, administrative politics, and public policy. Most of my research explores how bureaucracies and elected officials gather information on problems encountered during policy implementation and how these problems influence organization behavior and performance.
 My dissertation research considers how bureaucracies and elected officials monitor problems related to the implementation of public policies.</description>
@@ -25,49 +25,49 @@ My dissertation research considers how bureaucracies and elected officials monit
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <link>https://codydrolc.com/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>https://codydrolc.com/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/home/publications/</link>
+      <link>https://codydrolc.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://codydrolc.com/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/home/research/</link>
+      <link>https://codydrolc.com/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/research/</guid>
-      <description>Under Review &amp;ldquo;Taking Time (and Space) Seriously: How Scholars Falsely Infer Policy Diffusion from Model Misspecification&amp;rdquo; with Christopher Gandrud and Laron K. Williams
- Conditionally accepted at Policy Studies Journal  &amp;ldquo;The Importance of Agency and Oversight Capacity in Enhancing Accountability in Policy Implementation&amp;rdquo; with Lael R. Keiser
+      <guid>https://codydrolc.com/home/research/</guid>
+      <description>Publications (Conditionally accepted) &amp;ldquo;Taking Time (and Space) Seriously: How Scholars Falsely Infer Policy Diffusion from Model Misspecification.&amp;rdquo; (with Christopher Gandrud and Laron K. Williams), Policy Studies Journal
+Under Review &amp;ldquo;The Importance of Agency and Oversight Capacity in Enhancing Accountability in Policy Implementation&amp;rdquo; with Lael R. Keiser
 &amp;ldquo;Under Pressure: Centralizing Regulation in Response to Presidential Directives&amp;rdquo; with Jennifer Selin, Hanna Brant, Nicholas Brothers, and Jordan Butcher
 &amp;ldquo;The Impact of Chinese Investments on Public Opinion in Latin America&amp;rdquo; with Adriana Boersner and Michael Hendricks</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://codydrolc.com/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://codydrolc.com/home/teaching/</guid>
       <description> Instructor  POLSC-1100 | American Government | Fall 2019  Lab Instructor  POLSC-3000 | Introduction to Political Research | Fall 2016  Evaluations   Graduate Workshops  A Practical Introduction to Measurement and Data Theory | Spring 2018 Reference Management for Political Science | Fall 2016  Teaching Assistant  The American Presidency | Spring 2018 African American Politics | Fall 2017 Liberty Justice, and the Common Good | Fall 2015, Fall 2017 The American Constitution | Spring 2016  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://codydrolc.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://codydrolc.com/home/contact/</guid>
       <description></description>
     </item>
     
